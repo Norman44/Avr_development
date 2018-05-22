@@ -1,10 +1,3 @@
-/*
- * LCD.h
- *
- * Created: 23.4.2013 22:14:06
- *  Author: maticpi
- */ 
-
 #ifndef KBD_H_
 #define KBD_H_
 

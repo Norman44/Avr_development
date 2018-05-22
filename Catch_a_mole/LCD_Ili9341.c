@@ -1,10 +1,3 @@
-/*
- * CFile1.c
- *
- * Created: 3.3.2015 16:14:59
- *  Author: maticpi
- */ 
-
 #include "LCD_ILI9341.h"
 
 UG_GUI gui;

@@ -1,9 +1,3 @@
-/*
- * BackgroundServices.c
- *
- * Created: 04-Apr-17 14:54:25
- *  Author: maticpi
- */ 
 #include "BackgroundServices.h"
 #include <util/delay.h>
 

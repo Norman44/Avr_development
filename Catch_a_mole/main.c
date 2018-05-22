@@ -1,10 +1,3 @@
-/*
- * v7.c
- *
- * Created: 04-Apr-17 14:49:45
- * Author : maticpi
- */ 
-
 //#include <util/delay.h>
 #include <avr/io.h>
 #include "LCD_Ili9341.h"

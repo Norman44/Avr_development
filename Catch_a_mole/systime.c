@@ -1,10 +1,3 @@
-/*
- * systime.c
- *
- * Created: 3.6.2015 11:53:00
- *  Author: maticpi
- */ 
-
 #include "systime.h"
 volatile uint8_t TIME_STATUS;
 volatile uint32_t systick;

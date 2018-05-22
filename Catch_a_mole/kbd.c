@@ -1,10 +1,3 @@
-/*
- * kbd.c
- *
- * Created: 5.6.2014 16:45:06
- *  Author: maticpi
- */ 
-
 #include "kbd.h"
 
 char lastkey;

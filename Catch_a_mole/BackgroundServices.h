@@ -1,10 +1,3 @@
-/*
- * BackgroundServices.h
- *
- * Created: 04-Apr-17 14:55:29
- *  Author: maticpi
- */ 
-
 #ifndef BACKGROUNDSERVICES_H_
 #define BACKGROUNDSERVICES_H_
 

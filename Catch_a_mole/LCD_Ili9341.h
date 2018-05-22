@@ -1,10 +1,3 @@
-/*
- * Ili9341.h
- *
- * Created: 3.3.2015 16:18:28
- *  Author: maticpi
- */ 
-
 #ifndef ILI9341_H_
 #define ILI9341_H_
 

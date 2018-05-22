@@ -1,19 +1,3 @@
-/*
- * systime.h
- *
- * Created: 3.6.2015 11:52:47
- *  Author: maticpi
- *
- * Uses TIMER0 as a system counter 
- * - uint32_t systick = number of millisconds since the initialization (never read/write directly - possible race condition)
- * - uint8_t TIME_STATUS = various time related flags (never read/write directly - possible race condition)
- *
- *
- * NOTE: Requires interrupts to be enabled! 
- *       They are not enabled by default. 
- *       To enable them call sei(); after Systime_Init();
- */ 
-
 #ifndef SYSTIME_H_
 #define SYSTIME_H_
 

@@ -1,10 +1,3 @@
-/*
- * config.h
- *
- * Created: 3.6.2015 14:07:32
- *  Author: maticpi
- */ 
-
 #ifndef CONFIG_H_
 #define CONFIG_H_
 
